@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 group-title="1899 -",Episode 01
 https://www.googleapis.com/drive/v3/files/1euFsNVB_wK3ySLt6hi4IDYP4v45YI9HU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="1899 -",Episode 02
@@ -2146,44 +2148,7 @@ http://abf.filmbluray.id/m8j2bin
 http://abf.filmbluray.id/b67096b
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr3.png", The Lord of the Rings : The Return of the King (2003)
 http://abf.filmbluray.id/x2dvwh0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980)
-http://abf.filmbluray.id/1td6drb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980)
-http://abf.filmbluray.id/pc5hdir
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980)
-http://abf.filmbluray.id/u4hspqy
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981)
-http://abf.filmbluray.id/osrg3o1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982)
-http://abf.filmbluray.id/kw19hjb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983)
-http://abf.filmbluray.id/jkvjjin
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983)
-http://abf.filmbluray.id/zxfzjhm
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur (1984)
-http://abf.filmbluray.id/do3ugxv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong (1984)
-http://abf.filmbluray.id/u752m23
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong (1985)
-http://abf.filmbluray.id/rq99s97
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan (1985)
-http://abf.filmbluray.id/f7gfa43
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong (1986)
-http://abf.filmbluray.id/7e8joq7
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa (1987)
-http://abf.filmbluray.id/zobm5cs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun (1991)
-http://abf.filmbluray.id/94cu9o0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main (1993)
-http://abf.filmbluray.id/qn276o5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk (1993)
-http://abf.filmbluray.id/o6gedd9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini (1994)
-http://abf.filmbluray.id/wxvxwdc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong (1994)
-http://abf.filmbluray.id/w26tyv5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn (2019)
-http://abf.filmbluray.id/zcricf6
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers : War for Cybertron Trilogy" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E01 Ep.1
 http://abf.filmbluray.id/gip3hno
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers : War for Cybertron Trilogy" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E02 Ep.2
@@ -2196,3 +2161,29 @@ http://abf.filmbluray.id/ddur41m
 http://abf.filmbluray.id/lxwscav
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers : War for Cybertron Trilogy" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E06 Ep.6
 http://abf.filmbluray.id/rczeph2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 01
+http://abf.filmbluray.id/eeh5g6e
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 02
+http://abf.filmbluray.id/1zu8def
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 03
+http://abf.filmbluray.id/3bepvs2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 04
+http://abf.filmbluray.id/ig6x3g3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 05
+http://abf.filmbluray.id/ktd5s2d
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 06
+http://abf.filmbluray.id/9rpw1ze
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 07
+http://abf.filmbluray.id/qux9u0j
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 08
+http://abf.filmbluray.id/vu9b21j
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 09
+http://abf.filmbluray.id/j9n5xde
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 10
+http://abf.filmbluray.id/wsnhhc3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 11
+http://abf.filmbluray.id/93qij73
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 12
+http://abf.filmbluray.id/v13iarn
+
