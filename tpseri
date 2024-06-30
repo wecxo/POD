@@ -1,275 +1,243 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 01
 https://www.googleapis.com/drive/v3/files/13zcy1SAXJ0-bgXqC2xFPftunv8-DtZ3D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 02
 https://www.googleapis.com/drive/v3/files/1vPTMXdN76SFB0JY0CLgOrzE7i6m7RS0H?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 03
 https://www.googleapis.com/drive/v3/files/1K6HxtcUMxgDeJ1sxsKvbWOYXm0vAsF7n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 04
 https://www.googleapis.com/drive/v3/files/1sO_XwUoW4IZ38VqnzyJNSG3ElSL4cLDC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 05
 https://www.googleapis.com/drive/v3/files/1mPqH9b6LiNYCjHVaJnfyiEMKL_CV7CNK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 06
 https://www.googleapis.com/drive/v3/files/10jWHrnYJO132J8TI8bdlk1sCak7LDpgd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 07
 https://www.googleapis.com/drive/v3/files/1ZSEzXPGh6GAes2cdUdPyXkWnJEkd8AQq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 08
 https://www.googleapis.com/drive/v3/files/1G9Ujg5STi1y3STHSHcoac-MzMCCTkVCX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 09
 https://www.googleapis.com/drive/v3/files/17c7wEaUGRvmIJlJS5ZDf8NcyxKV7S25p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="13 Reasons Why  Season 1",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="13 Reasons Why S1",Episode 10
 https://www.googleapis.com/drive/v3/files/1HvS_3rSf8IVNCrXePKGcHKDBYc2LorLB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Age of Samurai: Battle for Japan ",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Age of Samurai: Battle for Japan ",Episode 01
 https://www.googleapis.com/drive/v3/files/1zrV0Bk3b92Gu9fH1I_SAVMFMWCdwNH4F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Age of Samurai: Battle for Japan ",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Age of Samurai: Battle for Japan ",Episode 02
 https://www.googleapis.com/drive/v3/files/18YoJDH-FSkpit5nUmt_rxXLFEUNqPq5Q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Age of Samurai: Battle for Japan ",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Age of Samurai: Battle for Japan ",Episode 03
 https://www.googleapis.com/drive/v3/files/1CuPlVZzARwXQcPyLruvEkxpS78p184ut?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Age of Samurai: Battle for Japan ",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Age of Samurai: Battle for Japan ",Episode 04
 https://www.googleapis.com/drive/v3/files/1ZuVvApwFUoZaAWZBuT4EiAfF88x8Wn1C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Age of Samurai: Battle for Japan ",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Age of Samurai: Battle for Japan ",Episode 05
 https://www.googleapis.com/drive/v3/files/1X99gKr8m8qP7IrH3G15HSazSQmrZvv79?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Age of Samurai: Battle for Japan ",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Age of Samurai: Battle for Japan ",Episode 06
 https://www.googleapis.com/drive/v3/files/1xDDl6PnFyLEwL0GlRZgLVrBXYNtPakA3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmLtHX-iTPjkWvBERviLNAAibvwbghX6idEBMaF4iDKo.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E01" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E01
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEMkJ6DWhNfJ4toPCXWhhXX1COAJZldJjg2kyhiuZypgs#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5bnNLx2DMCh2Mv3TbkLX8qFcGiYwXl8TS5cuU2n3ZME.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E02" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E02
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEEUwuBpWD0Wk-ZRCyS2UTLSrAEeVLrmcl8UnXDAXEiwO#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs_cWv1XIVIflCfRFLaAm0QRpGTVKopihlDcCO9YElN0.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E03" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E03
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEDeCbqxE0nZcw94AoS9mYur_Hw6N7oYlaTT6jw1_d051#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLbYdUdM4wHMnKa1WOngAoBRc6oB8DcAUYIfuDcygopvc.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E04" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E04
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadENgGLn4tPeEk0vQusFmJ145OxOtKwWk7V9OIQa4M6L3k#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLK8idfw9vAzr0SZ1XuPxznfw0ruJmS0T5CbQCscjlWZI.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E06" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E06
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEBG4Jou59TpAPWDQ1fiSPoKwFpcWNa8szLjaiAgtKd1L#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLh_JcnMUvqgYpmb3m--tMCtTLbfCr9DkvK3fcmD4SOes.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E07" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E07
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEJEAusb1xm-GGuM27RdA3PTJcVzP2eSVWZGrWE5J28hU#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkSRMhPnUsY_vZa1WZvOwQmeq7Zzt1z8GYp2kRf60OpY.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E08" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E08
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEL5y0Gtfp0gO56Fk3UgEEhDf6p_8FFVRL2sQyIStDxtN#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLMUq2tSaIjzoaZ4O1BEpbS0UmkPDdPKQ_XC9qpNJ7w2I.jpg" tvg-id="" tvg-name="Avatar: The Last Airbender S01E05" group-title="Avatar: The Last Airbender",Avatar: The Last Airbender S01E05
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadENJSOaXTHx4nmahe23U7YCki2R7uWmcHim8zdKOFJHSL#.mkv
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Chernobyl ",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Chernobyl ",Episode 01
 https://www.googleapis.com/drive/v3/files/13NdUB_cbSVvRjxsLmL23BoCO2yRiQ8nu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Chernobyl ",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Chernobyl ",Episode 02
 https://www.googleapis.com/drive/v3/files/1lvTW38xgUgw0mAyGQD65dOtvI8RYQjN2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Chernobyl ",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Chernobyl ",Episode 03
 https://www.googleapis.com/drive/v3/files/1MEj4JDkYnAtML0Gil-6wCrTgvHQaV6cs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Chernobyl ",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Chernobyl ",Episode 04
 https://www.googleapis.com/drive/v3/files/1e78QfZI0joNezn-LdoonqaAe8WYYnxKM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Chernobyl ",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Chernobyl ",Episode 05
 https://www.googleapis.com/drive/v3/files/1PaYetFU6-gZIdfLtFdSnd2eUXltx5a7X?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 01
 https://www.googleapis.com/drive/v3/files/1PXVm2A4GD2N7l-BiQ2fO7f1OkhfkFEzg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 02
 https://www.googleapis.com/drive/v3/files/14UnbtCQJOjLycQ3dCouiLsdBN5paYlQS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 03
 https://www.googleapis.com/drive/v3/files/1kR9T7f5iZmvDZmKM_e84OhnxWRUlFKeY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 04
 https://www.googleapis.com/drive/v3/files/11drkGEOMvq1pZF1EQsfoQiM6sY6Yy8RY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 05
 https://www.googleapis.com/drive/v3/files/1xNVSHWmSxcFIZ_F0na0EP9HbyFf82N9m?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 06
 https://www.googleapis.com/drive/v3/files/1Ay3CMcjUI1H5U9X-sRNU2keyj5RFidAx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 07
 https://www.googleapis.com/drive/v3/files/16OMHAhw083slGdqnAfQE2s69iDel5eiG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 08
 https://www.googleapis.com/drive/v3/files/1M6gv1-GThh6yIJs_wCD1QFfsOTGvy3aV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 09
 https://www.googleapis.com/drive/v3/files/1VCiywNevajpoLxtH54e2-Q5JNnsBpx5y?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 1",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S1",Episode 10
 https://www.googleapis.com/drive/v3/files/1e0LWkAicKFt5xCE4dOcuiMdjBq5JEisO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 01
 https://www.googleapis.com/drive/v3/files/12Ppb0QRFQuyN8ITPYg3VO4tDSraDSdks?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 02
 https://www.googleapis.com/drive/v3/files/1L1Ie-Yeg4VTWpz9zxA0s5torp2fyFDaH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 03
 https://www.googleapis.com/drive/v3/files/1ci7tpOjEcCi2mpsVuSsd-ji-g-COtfbG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 04
 https://www.googleapis.com/drive/v3/files/1aJZXkG_ZcB7UxZrDlwfg1kQ-MqmGC6rA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 05
 https://www.googleapis.com/drive/v3/files/17fzbRuHEqRVcj5w0mKgCnEkuDHQgsWwi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 06
 https://www.googleapis.com/drive/v3/files/12eFyOzKR0ySz427s_Pu_CBXIzpDJKMxB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 07
 https://www.googleapis.com/drive/v3/files/1ehh1INvVxBRCq7aRBldGMCzEQN5o9gyC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 08
 https://www.googleapis.com/drive/v3/files/1w6ikzpD4wOSHCE271bq4QA-eCmyEEwqv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 09
 https://www.googleapis.com/drive/v3/files/1gDdw9ivdXOGuFq-lKEQvUEY02SWO7xOc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 2",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S2",Episode 10
 https://www.googleapis.com/drive/v3/files/1-7kTxPrMVG-b0VfZNS_esFqADGpG7_pE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 01
 https://www.googleapis.com/drive/v3/files/1I6JwxD8ZFF87uqCioMrH51bsDFI_tJWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 02
 https://www.googleapis.com/drive/v3/files/1C3akG6Sa3Odv7VjtNymXyJ1eLbR0OZQw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 03
 https://www.googleapis.com/drive/v3/files/1Ev8lV67tMol5aT5oRoVzTQ-a-vg3HtEx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 04
 https://www.googleapis.com/drive/v3/files/1FITDs2hR10eJapnAq7VJrkvvJhalEXP6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 05
 https://www.googleapis.com/drive/v3/files/1ySa7BsqXGsL5vKIC7sKSmW63nK7RlGsj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 06
 https://www.googleapis.com/drive/v3/files/1m9Hi1zvBQbGWFg51Rv2Ho3IuMsOSVxrn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 07
 https://www.googleapis.com/drive/v3/files/13b8lnzAxp7t5OlfbSQI7tBe-DToD1lvf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 08
 https://www.googleapis.com/drive/v3/files/1oSF8NeCoHVEodz53Gh0lhwvC9SYLk53u?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 09
 https://www.googleapis.com/drive/v3/files/1gLGjgB3YlJqRO72oJm1UTseKlthlyDGQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 3",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S3",Episode 10
 https://www.googleapis.com/drive/v3/files/11uR7x1cDghef_UszEznarbT_p9L406Na?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 01
 https://www.googleapis.com/drive/v3/files/1yAwIaVkpn0I0Qw_R2dfi4S3D30POiNJR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 02
 https://www.googleapis.com/drive/v3/files/1NsjU35b9mff01d8Qmj3YNSGypUcketyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 03
 https://www.googleapis.com/drive/v3/files/1Qzg4M1M0TjsIrr5VroAZ5fUYHKZJJkCg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 04
 https://www.googleapis.com/drive/v3/files/1DlRWtI_BsbPAqhb9X8mO8qPfX1Nsl2EK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 05
 https://www.googleapis.com/drive/v3/files/1uCLEJhruPA2qg4qxEYUZJu4cIJw2Wd2Y?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 06
 https://www.googleapis.com/drive/v3/files/1oAdJAEcEDM0im73m3h76PPnkAcSZYCdq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 07
 https://www.googleapis.com/drive/v3/files/1b6WlEc4MlboECFcSs4bF6Y98sKxqflBt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 08
 https://www.googleapis.com/drive/v3/files/1EW6-f5ZN7BMyF7GsZpSTGuAzjMKMvXs-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 09
 https://www.googleapis.com/drive/v3/files/1-LF6nwNVHDXjqJy78OM675kPJrS_oJyb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 4",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S4",Episode 10
 https://www.googleapis.com/drive/v3/files/1LQ4DY4OOrtaDgEo2kWcWAPD3HwUa_4KG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 01
 https://www.googleapis.com/drive/v3/files/1skoTK0FNJWfhvQqDzR-k0xFXmQcrnLux?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 02
 https://www.googleapis.com/drive/v3/files/1GoIdL_FK5DpIt49GsiES33f0uCr6XCP4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 03
 https://www.googleapis.com/drive/v3/files/1HLV3MMhiDqKMEBMT3rV-T4w0uG3CIjZQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 04
 https://www.googleapis.com/drive/v3/files/1I6JTHNL7StBLtGA4chY4HyFixiZplEY4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 05
 https://www.googleapis.com/drive/v3/files/1k7aBhtk2dsdz6HWbcNWWvKvrPy5aPQlR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 06
 https://www.googleapis.com/drive/v3/files/1OYQUqKrGXspu2pnbY_jOPlS6BPARQZSn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 07
 https://www.googleapis.com/drive/v3/files/19cjilIe7_Kg1kKdmhUnSvWlSCAlVDVLj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 08
 https://www.googleapis.com/drive/v3/files/1Ls0fhWt8ZIDT6bSs9N1C-7FyxI1gDIpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 09
 https://www.googleapis.com/drive/v3/files/1FDrst8uH8znFtL33gEvGUGM33itwaWpq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 5",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S5",Episode 10
 https://www.googleapis.com/drive/v3/files/1v5kI08fm5pKQDnBLdWbLVLzgSQtxH-t_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 01
 https://www.googleapis.com/drive/v3/files/1orENkBLEEzQzOOYJFDl1OeYjA7ZkQmGl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 02
 https://www.googleapis.com/drive/v3/files/1dHXM3w1JSgVOCiyU4ZOXw4_-NXyqPub6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 03
 https://www.googleapis.com/drive/v3/files/1f03Rr7qnF3asFLl8el9wwsVIO_31wRc0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 04
 https://www.googleapis.com/drive/v3/files/17reBxahh8Ipf60fxh8Be9iLG5Mv2Cf0t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 05
 https://www.googleapis.com/drive/v3/files/11lr0_dN99F1fNiwY4uRVWSjb5eefLrlM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 06
 https://www.googleapis.com/drive/v3/files/1asGrggpg2tUHivKAdwb9vfh5eRcpHvRJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 07
 https://www.googleapis.com/drive/v3/files/1ZQZ5WIGC6HPp64Jp2avwqbWS7P4JkqoI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 08
 https://www.googleapis.com/drive/v3/files/1p8gwpOIDBaX2Hlv0X0m05yGKfYAj7v0f?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 09
 https://www.googleapis.com/drive/v3/files/19fGq2L1WI60_rEwmsn3ltCL8O21hf_Y9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 6",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S6",Episode 10
 https://www.googleapis.com/drive/v3/files/1MTeaRhC4R29RoN7kyUOvmpMCKXQmlBKC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 7",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S7",Episode 01
 https://www.googleapis.com/drive/v3/files/1aNDasXLC6FuFe-6G_sUYCle8xlt1U68f?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 7",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S7",Episode 02
 https://www.googleapis.com/drive/v3/files/1F9UAdYrHDoP2O81kOMK-jld6Y0wZJB6P?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 7",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S7",Episode 03
 https://www.googleapis.com/drive/v3/files/1wGXMpyKTWVlTjXb7vPMmuiNKEtJINfus?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 7",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S7",Episode 04
 https://www.googleapis.com/drive/v3/files/1IPHFwfiUrMW3rPlat7cQT0bhtbY1WVJU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 7",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S7",Episode 05
 https://www.googleapis.com/drive/v3/files/1OITjE50795E5tlIMhn4D8GiTQ968Fy2g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 7",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S7",Episode 06
 https://www.googleapis.com/drive/v3/files/1Iwyfd0XH9arx3d2ogq4mVf2QU2g-vTbw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 7",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S7",Episode 07
 https://www.googleapis.com/drive/v3/files/1abgfxqW1WmGYyYTWwIiA3Xp_qhMP0nDL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 8",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S8",Episode 01
 https://www.googleapis.com/drive/v3/files/1FOaP_OiBy7q1X-NqnjCrf4x5hYUjLHax?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 8",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S8",Episode 02
 https://www.googleapis.com/drive/v3/files/1xaFkG4Ivcc4bTeyZjaHU7o49HJFn9zer?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 8",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S8",Episode 03
 https://www.googleapis.com/drive/v3/files/1rErI2Ld4-pJ8-xJzw-juNyb9U2S0zGZU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 8",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S8",Episode 04
 https://www.googleapis.com/drive/v3/files/164DefDSkOHmOg3lPS-2-ukG9LbmDXTSO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 8",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S8",Episode 05
 https://www.googleapis.com/drive/v3/files/1huRm33CQPl8-sNReNR6qsNOPM9yIvIIA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Game of Thrones Season 8",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Game of Thrones S8",Episode 06
 https://www.googleapis.com/drive/v3/files/1af-LmNGDel9hMDbKbeTa2KoKmwL9ezRo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 01
 https://www.googleapis.com/drive/v3/files/1ZFXplsHOXOfzMzqjRJSQCYLPkpJ9_QRp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 02
 https://www.googleapis.com/drive/v3/files/14IvRsggGeo3Wit5BuJ88oRA4816_0Vhk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 03
 https://www.googleapis.com/drive/v3/files/1BLkgKe7R8Xlz3AL6-caVSZ1J_aisWUCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 04
 https://www.googleapis.com/drive/v3/files/1CdpJWBWX2zSQyyrD_tdgAaS-di0y8Ari?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 05
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 06
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 07
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 08
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 09
+#EXTINF:-1  tvg-name="Episode 09" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 09
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 10
+#EXTINF:-1  tvg-name="Episode 10" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 10
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 11
+#EXTINF:-1  tvg-name="Episode 11" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 11
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 12
+#EXTINF:-1  tvg-name="Episode 12" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 12
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist Season 1",Episode 13
+#EXTINF:-1  tvg-name="Episode 13" tvg-id="ext" tvg-logo="" group-title="Money Heist S1",Episode 13
 https://www.googleapis.com/drive/v3/files/1krJlECG9dYP_SRmubZDVu9MM6HB0tVR3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist: Korea - Joint Economic Area -",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Money Heist: Korea [Joint Economic Area]",Episode 01
 https://www.googleapis.com/drive/v3/files/1yw0USZO8OQFS8ifJ8fNxrs6nlxyiPQ-F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist: Korea - Joint Economic Area -",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Money Heist: Korea [Joint Economic Area]",Episode 02
 https://www.googleapis.com/drive/v3/files/1yw9VmL6l0e06RHVJfabUSIfaRCnFybJ_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist: Korea - Joint Economic Area -",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Money Heist: Korea [Joint Economic Area]",Episode 03
 https://www.googleapis.com/drive/v3/files/1WgpdOJ2Fdt7MWziXiJMjpfk4WpGJTbxO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist: Korea - Joint Economic Area -",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Money Heist: Korea [Joint Economic Area]",Episode 04
 https://www.googleapis.com/drive/v3/files/1mcPe0SWPEpJRCJ8hVXnZJPYNdS7yPKZf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist: Korea - Joint Economic Area -",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Money Heist: Korea [Joint Economic Area]",Episode 05
 https://www.googleapis.com/drive/v3/files/1emQl4mL2G1gIQHxNsOatQhXB3S8E7CAp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Money Heist: Korea - Joint Economic Area -",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Money Heist: Korea [Joint Economic Area]",Episode 06
 https://www.googleapis.com/drive/v3/files/1bS7H4T9CiijzQuINdOqeykC027vNHV4O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTBl5JEExq9IWK4BmN26ukfBF8-Q5jqxaQvI6rsxB0i4.jpg" tvg-id="" tvg-name="ONE PIECE S01E01" group-title="One Piece",ONE PIECE S01E01
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEM0gQuwqQPiHcWdanoOTIOszEWtg2qOucFM0DNp01InL#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNn06O8WFDraocmmMW07YQDNnf3NkMzmXphtUknvruPk.jpg" tvg-id="" tvg-name="ONE PIECE S01E02" group-title="One Piece",ONE PIECE S01E02
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEPQldUAOZlgmQUpeEdVmnb7C3eBqDPmw0PatEMFpc3de#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLz36sK_B6LZTcxIw-_vrwHTDGtCep2G4M8N5eE3MKaY.jpg" tvg-id="" tvg-name="ONE PIECE S01E03" group-title="One Piece",ONE PIECE S01E03
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEFTxUKtFSqR15FRX8PGk5ruc7nfIkuUc97JyDMTsdOYZ#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLRh298Xn3u1BPYsbOhVAixt3gK8adxN4eTfrsdhDNGc.jpg" tvg-id="" tvg-name="ONE PIECE S01E04" group-title="One Piece",ONE PIECE S01E04
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEGtaJrujZDmogZ3gjOt5A7yrFk-UdDpo95tX1dZGIb1e#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5WmhvIcz9BGs_6Kt9XU5g63WGoIn4V-WKVyr8lHkp1o.jpg" tvg-id="" tvg-name="ONE PIECE S01E05" group-title="One Piece",ONE PIECE S01E05
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEHrSdBLGRyj0juvM_3DCowqT6dfHN4UbA523QkG-0Rxy#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLI1bwrfNdJPxuggeBIk5mnAPA0jt9dU5d7eK5iZvKN8s.jpg" tvg-id="" tvg-name="ONE PIECE S01E06" group-title="One Piece",ONE PIECE S01E06
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEPiwisU3323RTPsyEY4YoeGSU2fqN0-6fq8N9tTeEbxx#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL64DbAj2YeZtaJfm-JGixrAhmIZrta17oywQATITqyNc.jpg" tvg-id="" tvg-name="ONE PIECE S01E07" group-title="One Piece",ONE PIECE S01E07
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadELGJxT0V7CCBIYFg5SkT2o8SYnkfb5TKTwgxZHr4oi-o#.mkv
-#EXTINF:-1  tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLba_ZPp-1VmTUDcWC2arRzPwqCXYbwiDP4DAdlj73C9o.jpg" tvg-id="" tvg-name="ONE PIECE S01E08" group-title="One Piece",ONE PIECE S01E08
-http://play.fastkobar.my.id:8080/play/qLRBt4Rwrz8YRnha-GadEHlHhLo39kRlCi1WypnGeEzHRpUq8a38c-eInMwx2zgS#.mkv
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 01
+#EXTINF:-1  tvg-name="Episode 01" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 01
 https://www.googleapis.com/drive/v3/files/129PlXzKD_V1YN-TUDPQna_M7lBkURfu1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 02
+#EXTINF:-1  tvg-name="Episode 02" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 02
 https://www.googleapis.com/drive/v3/files/18HYzkW5pgb88WDIZ_KY4-liS3jYA5w_V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 03
+#EXTINF:-1  tvg-name="Episode 03" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 03
 https://www.googleapis.com/drive/v3/files/1KPKQa46Bt6kEW3xLvocLGCgGPMvDMtoa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 04
+#EXTINF:-1  tvg-name="Episode 04" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 04
 https://www.googleapis.com/drive/v3/files/1lR9faUCiUmV4-PnYTsTwf0HpFdqpXIn1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 05
+#EXTINF:-1  tvg-name="Episode 05" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 05
 https://www.googleapis.com/drive/v3/files/1W2os5oDI60R_7xgTiX4B_5UZeaeO368M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 06
+#EXTINF:-1  tvg-name="Episode 06" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 06
 https://www.googleapis.com/drive/v3/files/1Z-FdOvKEOBnt7WrYJmGGRHQW_ihpQwaP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 07
+#EXTINF:-1  tvg-name="Episode 07" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 07
 https://www.googleapis.com/drive/v3/files/1n4JXLUXsh5L5_L0Z3TcDHUSc6KsUVmaq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="" tvg-id="" tvg-name="" group-title="Shadow and Bon Season 1",Episode 08
+#EXTINF:-1  tvg-name="Episode 08" tvg-id="ext" tvg-logo="" group-title="Shadow and Bon S1",Episode 08
 https://www.googleapis.com/drive/v3/files/116yTFTrgn1wj-XT0Yqxs2W_G-MDt2C9X?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
